@@ -47,7 +47,7 @@ The dataset used for this project is "heart_disease_data.csv". It contains infor
 
 ## Results
 
-[Provide a summary of the results obtained from different models, including their evaluation metrics.]
+Results here depends upon the type of input, sometimes ANN performs the best or Decision Tree classifier.
 
 ## Dependencies
 
